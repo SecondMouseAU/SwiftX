@@ -1,0 +1,17 @@
+# GitHub Pages (Jekyll) config for the SwiftX docs site — served from /docs on main.
+# Theme: just-the-docs (left sidebar nav + search), pinned to v0.3.3 for GitHub Pages' native build.
+# Matches the OCCTSwift / SwiftPMX docs setup so the ecosystem reads consistently.
+title: SwiftX
+description: A native-Swift, dependency-free reader for DirectX .x (text / binary / MSZip) model geometry — macOS / iOS / Linux.
+remote_theme: just-the-docs/just-the-docs@v0.3.3
+
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "GitHub": ["https://github.com/SecondMouseAU/SwiftX"]
+aux_links_new_tab: true
+
+exclude:
+  - "*.sh"
+  - Gemfile
+  - Gemfile.lock
