@@ -1,0 +1,10 @@
+okf_version: 1
+repo: SwiftX
+cluster: kernel
+visibility: public
+status: active
+language: Swift
+summary: Native-Swift reader for DirectX .x model geometry (txt/bin/tzip/bzip) — vertices + triangles only; dependency-free, Linux + Apple.
+products: []
+depends_on: []          # leaf — pure Swift, no third-party deps
+maintainer: gsdali
