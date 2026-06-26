@@ -33,3 +33,4 @@ See [`references/`](references/index.md) for the `.x` format references.
 ## Policies
 
 - [Query `context` first for OCCT / OCCTSwift docs](policies/context-first.md)
+- [Documentation updates are mandatory](policies/docs-current.md)
